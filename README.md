@@ -1,4 +1,5 @@
 # Dotfiles
-My dotfiles tweaked for bspwm and polybar, also current hyprland, wofi, waybar configs.
+My dotfiles for hyprland, wofi, waybar configs.
+Installation instructions and scripts will be up soon (tm).
 
 You can use whatever you want. :)
