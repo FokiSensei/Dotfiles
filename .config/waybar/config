@@ -127,7 +127,7 @@
 	},
 
 	"custom/temp": {
-        "exec": "$HOME/.config/waybar/temp.py",
+        "exec": "python $HOME/.config/waybar/temp.py",
         "format": "{}",
         "tooltip": true,
         "interval": 1
