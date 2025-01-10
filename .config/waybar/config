@@ -127,10 +127,10 @@
 	},
 
 	"custom/temp": {
-        "exec": "python $HOME/.config/waybar/temp.py",
-        "format": "{}",
+        "exec": "$HOME/.config/waybar/cputemp.sh",
+        "format": " {}°C",
         "tooltip": true,
-        "interval": 1
+        "interval": 4
     }, 
 
     "disk": {
