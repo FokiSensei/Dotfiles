@@ -143,7 +143,6 @@ swaybg
 swaylock
 system-config-printer
 teamspeak3
-thefuck
 timeshift
 tk
 transmission-remote-gtk

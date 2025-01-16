@@ -12,6 +12,7 @@ alias ll='exa -l --color=always --group-directories-first --icons'  # long forma
 alias lt='exa -aT --color=always --group-directories-first --icons' # tree listing
 alias l.='exa -a | egrep "^\."'
 alias mc='mc -b'
+alias vim='nvim'
 
 PS1='[\u@\h \W]\$ '
 
@@ -24,5 +25,3 @@ source /home/alexc/.oh-my-neovim/tools/functions.sh
 PATH="/bin:$PATH"
 PATH="/home/alexc/.node_modules_global/bin:$PATH"
 PATH="/home/alexc/.local/bin:$PATH"
-
-eval "$(thefuck --alias)"
