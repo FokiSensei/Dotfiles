@@ -154,6 +154,7 @@ qt5ct
 qt6-wayland
 qt6ct
 rebuild-detector
+rofi-wayland
 sane-airscan
 sbctl
 screen
@@ -202,7 +203,6 @@ wireshark-qt
 wl-clipboard
 wlogout
 wmctrl
-wofi
 wpa_supplicant
 xdg-user-dirs
 xdg-utils
