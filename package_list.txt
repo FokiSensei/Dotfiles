@@ -22,6 +22,7 @@ cups
 cups-browsed
 cups-pk-helper
 devtools
+discord
 doublecmd-qt5
 downgrade
 dracula-gtk-theme
@@ -62,6 +63,7 @@ intel-media-driver
 intel-media-sdk
 intel-ucode
 inxi
+ipp-usb
 irssi
 iwd
 jdk21-openjdk
@@ -112,7 +114,7 @@ nload
 notepadqq
 noto-fonts-cjk
 noto-fonts-emoji
-nvidia-dkms
+nvidia-open-dkms
 nvidia-settings
 nvidia-utils
 nvtop
@@ -137,7 +139,6 @@ plasma-framework5
 plasma-integration
 plymouth
 pngcrush
-polkit-kde-agent
 polychromatic-git
 prismlauncher
 protonup-qt-bin
@@ -153,6 +154,7 @@ qt5ct
 qt6-wayland
 qt6ct
 rebuild-detector
+sane-airscan
 sbctl
 screen
 sddm
@@ -165,6 +167,7 @@ starship
 steam-native-runtime
 streamdeck-ui
 streamlink-twitch-gui-bin
+stress-ng
 swaybg
 swaylock
 system-config-printer
@@ -198,6 +201,7 @@ wireplumber
 wireshark-qt
 wl-clipboard
 wlogout
+wmctrl
 wofi
 wpa_supplicant
 xdg-user-dirs
