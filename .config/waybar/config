@@ -55,13 +55,13 @@
     "custom/launcher": {
         "tootltip": false,
         "format" : " 󰣇",
-        "on-click": "wofi",
-        "on-click-right": "killall wofi"
+        "on-click": "rofi",
+        "on-click-right": "rillall wofi"
     },
 
     "cpu": {
         "interval": 1,
-        "format" : "  {}%",
+        "format" : "  {usage}%",
         "max-length": 10
     },
 
