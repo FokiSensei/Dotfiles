@@ -56,7 +56,7 @@
         "tootltip": false,
         "format" : " 󰣇",
         "on-click": "rofi",
-        "on-click-right": "rillall rofi"
+        "on-click-right": "killall rofi"
     },
 
     "cpu": {
