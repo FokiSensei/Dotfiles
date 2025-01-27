@@ -18,7 +18,7 @@ makepks -si
 ```
 
 ```
-paru -S --needed - < pkglist.txt
+paru -S --needed - < package_list.txt
 ```
 
 # Modify scripts
