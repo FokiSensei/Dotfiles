@@ -1,5 +1,6 @@
 android-tools
 anydesk-bin
+archlinux-xdg-menu
 base
 base-devel
 bash-completion
@@ -67,6 +68,7 @@ ipp-usb
 irssi
 iwd
 jdk21-openjdk
+jellyfin-media-player
 jre17-openjdk
 kitty
 kpat
@@ -87,6 +89,7 @@ lib32-vkd3d
 libblockdev-btrfs
 libei
 libpulse
+libreoffice-fresh
 libva-intel-driver
 libva-nvidia-driver
 libva-utils
@@ -118,6 +121,7 @@ nvidia-open-dkms
 nvidia-settings
 nvidia-utils
 nvtop
+nwg-displays
 nwg-look
 obs-backgroundremoval
 opencl-nvidia
