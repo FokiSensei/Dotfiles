@@ -1,5 +1,6 @@
 android-tools
 anydesk-bin
+aquamarine
 archlinux-xdg-menu
 base
 base-devel
@@ -54,11 +55,18 @@ gvfs-nfs
 gvfs-smb
 helvum
 htop
-hyprcursor-git
-hypridle-git
-hyprland-git
-hyprland-meta-git
-hyprshade-git
+hyprcursor
+hypridle
+hyprland
+hyprland-protocols
+hyprland-qtutils
+hyprlock
+hyprpaper
+hyprpicker
+hyprpolkitagent
+hyprshade
+hyprsunset
+hyprwayland-scanner
 inetutils
 intel-media-driver
 intel-media-sdk
@@ -114,7 +122,6 @@ nano
 neovim
 nextcloud-client
 nload
-notepadqq
 noto-fonts-cjk
 noto-fonts-emoji
 nvidia-open-dkms
@@ -208,6 +215,7 @@ wl-clipboard
 wlogout
 wmctrl
 wpa_supplicant
+xdg-desktop-portal-hyprland
 xdg-user-dirs
 xdg-utils
 xorg-xhost
