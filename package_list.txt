@@ -60,6 +60,7 @@ hypridle
 hyprland
 hyprland-protocols
 hyprland-qtutils
+hyprlang
 hyprlock
 hyprpaper
 hyprpicker
@@ -126,6 +127,7 @@ noto-fonts-cjk
 noto-fonts-emoji
 nvidia-open-dkms
 nvidia-settings
+nvidia-settings-debug
 nvidia-utils
 nvtop
 nwg-displays
@@ -201,7 +203,7 @@ vim
 vkd3d
 vulkan-tools
 w3m
-waybar-git
+waybar
 wdisplays
 webcord-bin
 wget
