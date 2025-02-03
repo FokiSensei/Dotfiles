@@ -67,6 +67,7 @@ hyprpicker
 hyprpolkitagent
 hyprshade
 hyprsunset
+hyprutils
 hyprwayland-scanner
 inetutils
 intel-media-driver
