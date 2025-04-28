@@ -1,5 +1,6 @@
 #!/bin/bash
 # NAS driver mount
+paru -S gvfs-smb cifs-utils
 sudo mkdir -p /mnt/media
 sudo mkdir -p /mnt/egyeb
 echo "//15.0.0.80/Media /mnt/media cifs username=Foki,password=a3K12hy12,uid=1000,gid=1000 0 0" | sudo tee -a /etc/fstab
