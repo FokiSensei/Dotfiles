@@ -1,0 +1,15 @@
+archinstall --advanced
+locales -> értelemszerűen beállítani magyarra
+Disk Configuration -> Felső opció -> innen már ismerős lesz
+Bootloader -> systemd
+Unified kernel images -> no
+Hostname -> gépnév
+User Account
+Profile -> type -> minimal
+Audio -> pipewire
+Kernel -> zen
+Network config -> Network manager
+Paralell downloads -> 05 szál
+Optional repos -> multilib
+Timezone -> /Budapest
+Install
