@@ -11,6 +11,9 @@ bc
 betterbird-bin
 bind
 bitwarden
+bluez
+bluez-libs
+bluez-utils
 brave-bin
 brightnessctl
 btop
