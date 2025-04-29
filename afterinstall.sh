@@ -10,7 +10,7 @@ sudo mount -a
 # Plex Media Server install and restorem
 paru -S plex-media-server
 sudo bash
-cp -r /home/foki/backup/Pelx* /var/lib/plex
+cp -r /home/$USER/Backup/plex/* /var/lib/plex
 chown -R plex:plex /var/lib/plex
 find /var/lib/plex -type d -exec chmod 755 {} \;
 find /var/lib/plex -type f -exec chmod 644 {} \;
